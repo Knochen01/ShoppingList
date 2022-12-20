@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Knochen01.github.io/ShoppingList/static/css/main.073c9b0a.css",
+    "main.js": "/Knochen01.github.io/ShoppingList/static/js/main.877b1c9f.js",
+    "static/js/787.5bd4efce.chunk.js": "/Knochen01.github.io/ShoppingList/static/js/787.5bd4efce.chunk.js",
+    "index.html": "/Knochen01.github.io/ShoppingList/index.html",
+    "main.073c9b0a.css.map": "/Knochen01.github.io/ShoppingList/static/css/main.073c9b0a.css.map",
+    "main.877b1c9f.js.map": "/Knochen01.github.io/ShoppingList/static/js/main.877b1c9f.js.map",
+    "787.5bd4efce.chunk.js.map": "/Knochen01.github.io/ShoppingList/static/js/787.5bd4efce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.877b1c9f.js"
+  ]
+}
